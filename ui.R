@@ -1,3 +1,5 @@
+source("globals.R")
+
 shinyUI(fluidPage(
     titlePanel("Central Limit Theorem Simulator"),
     sidebarLayout(
